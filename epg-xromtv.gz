@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.5.0 -- Jan van Straaten" site="cignalplay.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.25 -- Jan van Straaten" site="gmanetwork.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="clickthecity.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.3.0 -- Jan van Straaten" site="tapdmv.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="guidatv.sky.it">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="tv.sky.com">
+  <channels>
+    <channel update="i" site="cignalplay.com" site_id="44B03994-C303-4ACE-997C-91CAC493D0FC" xmltv_id="Rptv">Rptv</channel>
+    <channel update="i" site="cignalplay.com" site_id="68C2D95A-A2A4-4C2B-93BE-41893C61210C" xmltv_id="Cg Hitsnow">Cg Hitsnow</channel>
+    <channel update="i" site="cignalplay.com" site_id="B741DD7A-A7F8-4F8A-A549-9EF411020F9D" xmltv_id="Cg Hbohd">Cg Hbohd</channel>
+    <channel update="i" site="cignalplay.com" site_id="C0B38DBD-BE4F-4044-9D85-D827D8DC64C4" xmltv_id="Tvup Prd">Tvup Prd</channel>
+    <channel update="i" site="cignalplay.com" site_id="2C55AD7F-3589-48DA-BEC4-005200215975" xmltv_id="Tvmaria Prd">Tvmaria Prd</channel>
+    <channel update="i" site="cignalplay.com" site_id="62F1A4ED-EB56-49DF-912D-0A2388131772" xmltv_id="Cg Hbofam">Cg Hbofam</channel>
+    <channel update="i" site="cignalplay.com" site_id="BC3C51E7-F1A5-46DE-979D-65DC483AE59C" xmltv_id="Cg Cinemax">Cg Cinemax</channel>
+    <channel update="i" site="cignalplay.com" site_id="C6AB65CE-37A0-4040-ABA7-021C669DBEE1" xmltv_id="Lotusmacau Prd">Lotusmacau Prd</channel>
+    <channel update="i" site="cignalplay.com" site_id="D5127959-34E4-41B2-AA80-CE74DDC2C3C4" xmltv_id="Cg Hbosign">Cg Hbosign</channel>
+    <channel update="i" site="cignalplay.com" site_id="CEE83EE5-D870-4B3C-9339-ACA7FF4020D0" xmltv_id="Cg Hbohits">Cg Hbohits</channel>
+    <channel update="i" site="cignalplay.com" site_id="C5298B63-6A6F-4CEC-8AC7-07B482EFA587" xmltv_id="Cg Tvnmovie">Cg Tvnmovie</channel>
+    <channel update="i" site="cignalplay.com" site_id="40E328E7-FE69-4287-86EA-FA942A7EA302" xmltv_id="Cg Dreamworktag">Cg Dreamworktag</channel>
+    <channel update="i" site="cignalplay.com" site_id="66B5278C-75EA-4D93-AD2B-A5822A0F1056" xmltv_id="Cg Tvnpre">Cg Tvnpre</channel>
+    <channel update="i" site="cignalplay.com" site_id="A9E09C52-721F-4316-ABB9-35EF145B69C0" xmltv_id="Cg Tagalogmovie">Cg Tagalogmovie</channel>
+    <channel update="i" site="cignalplay.com" site_id="B88CB39F-AC3A-4210-BAE5-F84FE52A2BD4" xmltv_id="Radyo5">Radyo5</channel>
+    <channel update="i" site="cignalplay.com" site_id="BBEE1ADF-0E6F-432D-B537-85D29ED83114" xmltv_id="Cg Mptv">Cg Mptv</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A51FC-C9E1-11EC-9D64-0242AC120002" xmltv_id="Cartoon Net Hd">Cartoon Net Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A5468-C9E1-11EC-9D64-0242AC120002" xmltv_id="Cnn Hd">Cnn Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A5580-C9E1-11EC-9D64-0242AC120002" xmltv_id="A2z">A2z</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A5698-C9E1-11EC-9D64-0242AC120002" xmltv_id="Dreamworks Hd">Dreamworks Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A57B0-C9E1-11EC-9D64-0242AC120002" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A5BC0-C9E1-11EC-9D64-0242AC120002" xmltv_id="Spotv Hd">Spotv Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A5F08-C9E1-11EC-9D64-0242AC120002" xmltv_id="Nbn4">Nbn4</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A6228-C9E1-11EC-9D64-0242AC120002" xmltv_id="Premiersports Hd">Premiersports Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A641C-C9E1-11EC-9D64-0242AC120002" xmltv_id="Tap Edge">Tap Edge</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A6520-C9E1-11EC-9D64-0242AC120002" xmltv_id="Blueant Extreme">Blueant Extreme</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A6624-C9E1-11EC-9D64-0242AC120002" xmltv_id="Tap Sports">Tap Sports</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A6868-C9E1-11EC-9D64-0242AC120002" xmltv_id="Bbcearth Hd">Bbcearth Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A696C-C9E1-11EC-9D64-0242AC120002" xmltv_id="Onesportsplus Hd">Onesportsplus Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A6A70-C9E1-11EC-9D64-0242AC120002" xmltv_id="Spotv Hd2">Spotv Hd2</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A6C78-C9E1-11EC-9D64-0242AC120002" xmltv_id="Rock Entertainment">Rock Entertainment</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A734E-C9E1-11EC-9D64-0242AC120002" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A7448-C9E1-11EC-9D64-0242AC120002" xmltv_id="Cctv4">Cctv4</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A7650-C9E1-11EC-9D64-0242AC120002" xmltv_id="Pbarush Hd">Pbarush Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A7754-C9E1-11EC-9D64-0242AC120002" xmltv_id="Arirang">Arirang</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A7CE0-C9E1-11EC-9D64-0242AC120002" xmltv_id="Kbs World">Kbs World</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A7DDA-C9E1-11EC-9D64-0242AC120002" xmltv_id="Onenews Hd">Onenews Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A7EE8-C9E1-11EC-9D64-0242AC120002" xmltv_id="Kix Hd">Kix Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A80E6-C9E1-11EC-9D64-0242AC120002" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A847E-C9E1-11EC-9D64-0242AC120002" xmltv_id="Bbcworld News">Bbcworld News</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A858C-C9E1-11EC-9D64-0242AC120002" xmltv_id="Hgtv Hd">Hgtv Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A869A-C9E1-11EC-9D64-0242AC120002" xmltv_id="Uaap Varsity">Uaap Varsity</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A8898-C9E1-11EC-9D64-0242AC120002" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A899C-C9E1-11EC-9D64-0242AC120002" xmltv_id="Premier Tennishd">Premier Tennishd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A8AAA-C9E1-11EC-9D64-0242AC120002" xmltv_id="Pbo">Pbo</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A8BB8-C9E1-11EC-9D64-0242AC120002" xmltv_id="Hits Hd">Hits Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A9284-C9E1-11EC-9D64-0242AC120002" xmltv_id="Aljazeera">Aljazeera</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A9392-C9E1-11EC-9D64-0242AC120002" xmltv_id="Oneph">Oneph</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A9496-C9E1-11EC-9D64-0242AC120002" xmltv_id="Foodnetwork Hd">Foodnetwork Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A9590-C9E1-11EC-9D64-0242AC120002" xmltv_id="Depedchannel">Depedchannel</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A97A2-C9E1-11EC-9D64-0242AC120002" xmltv_id="Tv5">Tv5</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A9C02-C9E1-11EC-9D64-0242AC120002" xmltv_id="History Hd">History Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55A9D06-C9E1-11EC-9D64-0242AC120002" xmltv_id="Fashiontv Hd">Fashiontv Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AA120-C9E1-11EC-9D64-0242AC120002" xmltv_id="Viva">Viva</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AA47C-C9E1-11EC-9D64-0242AC120002" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AA896-C9E1-11EC-9D64-0242AC120002" xmltv_id="Nhk Japan">Nhk Japan</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AB020-C9E1-11EC-9D64-0242AC120002" xmltv_id="Asianfoodnetwork">Asianfoodnetwork</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AB750-C9E1-11EC-9D64-0242AC120002" xmltv_id="Onesports">Onesports</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AB8E0-C9E1-11EC-9D64-0242AC120002" xmltv_id="Nickjr">Nickjr</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ABA02-C9E1-11EC-9D64-0242AC120002" xmltv_id="Warnertv Hd">Warnertv Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ABB06-C9E1-11EC-9D64-0242AC120002" xmltv_id="Animax">Animax</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ABC0A-C9E1-11EC-9D64-0242AC120002" xmltv_id="Ibc13">Ibc13</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ABD18-C9E1-11EC-9D64-0242AC120002" xmltv_id="Cgtn">Cgtn</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AC36C-C9E1-11EC-9D64-0242AC120002" xmltv_id="Axn">Axn</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AC48E-C9E1-11EC-9D64-0242AC120002" xmltv_id="Tapmovies Hd">Tapmovies Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AC592-C9E1-11EC-9D64-0242AC120002" xmltv_id="Taptv">Taptv</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AC696-C9E1-11EC-9D64-0242AC120002" xmltv_id="Moonbug Kids">Moonbug Kids</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AC790-C9E1-11EC-9D64-0242AC120002" xmltv_id="Tapactionflix Hd">Tapactionflix Hd</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AC9B6-C9E1-11EC-9D64-0242AC120002" xmltv_id="France24">France24</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ACCD6-C9E1-11EC-9D64-0242AC120002" xmltv_id="Abc Australia">Abc Australia</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ACF06-C9E1-11EC-9D64-0242AC120002" xmltv_id="Hits Movies">Hits Movies</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AD122-C9E1-11EC-9D64-0242AC120002" xmltv_id="Channelnews Asia">Channelnews Asia</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AD230-C9E1-11EC-9D64-0242AC120002" xmltv_id="Thrill">Thrill</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AD5C8-C9E1-11EC-9D64-0242AC120002" xmltv_id="Crime Investigation">Crime Investigation</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AD848-C9E1-11EC-9D64-0242AC120002" xmltv_id="Tech Storm">Tech Storm</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55AD956-C9E1-11EC-9D64-0242AC120002" xmltv_id="Buko">Buko</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ADA5A-C9E1-11EC-9D64-0242AC120002" xmltv_id="Knowledge Channel">Knowledge Channel</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ADB5E-C9E1-11EC-9D64-0242AC120002" xmltv_id="Tv5 Monde">Tv5 Monde</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ADD5C-C9E1-11EC-9D64-0242AC120002" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="cignalplay.com" site_id="E55ADE4C-C9E1-11EC-9D64-0242AC120002" xmltv_id="Sari Sari">Sari Sari</channel>
+    <channel update="i" site="gmanetwork.com" site_id="gma7" xmltv_id="GMA 7">GMA 7</channel>
+    <channel update="i" site="clickthecity.com" site_id="4" xmltv_id="PTV">PTV</channel>
+    <channel update="i" site="clickthecity.com" site_id="5" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="clickthecity.com" site_id="2" xmltv_id="GMA">GMA</channel>
+    <channel update="i" site="clickthecity.com" site_id="7" xmltv_id="IBC TV 13">IBC TV 13</channel>
+    <channel update="i" site="clickthecity.com" site_id="137" xmltv_id="Solar Flix">Solar Flix</channel>
+    <channel update="i" site="clickthecity.com" site_id="13" xmltv_id="ANC">ANC</channel>
+    <channel update="i" site="clickthecity.com" site_id="126" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="clickthecity.com" site_id="168" xmltv_id="Animax">Animax</channel>
+    <channel update="i" site="clickthecity.com" site_id="180" xmltv_id="Rock Entertainment">Rock Entertainment</channel>
+    <channel update="i" site="clickthecity.com" site_id="186" xmltv_id="Rock Extreme">Rock Extreme</channel>
+    <channel update="i" site="clickthecity.com" site_id="177" xmltv_id="CNN Philippines">CNN Philippines</channel>
+    <channel update="i" site="clickthecity.com" site_id="181" xmltv_id="Celestial Movies Pinoy">Celestial Movies Pinoy</channel>
+    <channel update="i" site="clickthecity.com" site_id="82" xmltv_id="Cinema One">Cinema One</channel>
+    <channel update="i" site="clickthecity.com" site_id="30" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="clickthecity.com" site_id="163" xmltv_id="Crime Investigation">Crime Investigation</channel>
+    <channel update="i" site="clickthecity.com" site_id="183" xmltv_id="GEM">GEM</channel>
+    <channel update="i" site="clickthecity.com" site_id="162" xmltv_id="History">History</channel>
+    <channel update="i" site="clickthecity.com" site_id="179" xmltv_id="Jeepney TV">Jeepney TV</channel>
+    <channel update="i" site="clickthecity.com" site_id="182" xmltv_id="K-Movies Pinoy">K-Movies Pinoy</channel>
+    <channel update="i" site="clickthecity.com" site_id="184" xmltv_id="Kapamilya Channel">Kapamilya Channel</channel>
+    <channel update="i" site="clickthecity.com" site_id="139" xmltv_id="MYX">MYX</channel>
+    <channel update="i" site="clickthecity.com" site_id="66" xmltv_id="Metro Channel">Metro Channel</channel>
+    <channel update="i" site="clickthecity.com" site_id="78" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="clickthecity.com" site_id="142" xmltv_id="PBO">PBO</channel>
+    <channel update="i" site="clickthecity.com" site_id="178" xmltv_id="Tagalized Movie Channel">Tagalized Movie Channel</channel>
+    <channel update="i" site="clickthecity.com" site_id="160" xmltv_id="Telenovela Channel">Telenovela Channel</channel>
+    <channel update="i" site="clickthecity.com" site_id="155" xmltv_id="VIVA Cinema">VIVA Cinema</channel>
+    <channel update="i" site="clickthecity.com" site_id="188" xmltv_id="Liga">Liga</channel>
+    <channel update="i" site="clickthecity.com" site_id="75" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="clickthecity.com" site_id="133" xmltv_id="Net 25">Net 25</channel>
+    <channel update="i" site="clickthecity.com" site_id="189" xmltv_id="a2z Channel 11">a2z Channel 11</channel>
+    <channel update="i" site="clickthecity.com" site_id="143" xmltv_id="GTV">GTV</channel>
+    <channel update="i" site="tapdmv.com" site_id="18b7c90a-8f9f-4083-930a-e2c45db7f4f2" xmltv_id="OUTDOORCHANNEL">OUTDOORCHANNEL</channel>
+    <channel update="i" site="tapdmv.com" site_id="4c1b2629-0c93-4eb7-96c0-03cc698ae082" xmltv_id="USATODAYSPORTS">USATODAYSPORTS</channel>
+    <channel update="i" site="tapdmv.com" site_id="586119a0-27c4-4fb9-8f2d-dd017e0b260e" xmltv_id="USATODAYNEWS">USATODAYNEWS</channel>
+    <channel update="i" site="tapdmv.com" site_id="71d697cf-54e7-44af-852d-eb9683be4222" xmltv_id="BLASTCINEMA">BLASTCINEMA</channel>
+    <channel update="i" site="tapdmv.com" site_id="f01e1047-e7eb-4322-a664-8e5910ac5926" xmltv_id="FAMILYMOVIES">FAMILYMOVIES</channel>
+    <channel update="i" site="tapdmv.com" site_id="65402ad9-8c23-4177-8d31-4fdafc3a3fb7" xmltv_id="FEAR">FEAR</channel>
+    <channel update="i" site="tapdmv.com" site_id="46549cb5-3908-459f-8350-e9d3d00c7494" xmltv_id="BLASTACTION">BLASTACTION</channel>
+    <channel update="i" site="tapdmv.com" site_id="362c355c-5233-4c00-9009-3477a0d86f72" xmltv_id="REALITYTV">REALITYTV</channel>
+    <channel update="i" site="tapdmv.com" site_id="0ecd2d73-178c-43fd-aaa1-a24921cd8920" xmltv_id="LAFF">LAFF</channel>
+    <channel update="i" site="tapdmv.com" site_id="59c16960-d7f4-4d4c-9de5-19384ba86bf9" xmltv_id="CRIMETV">CRIMETV</channel>
+    <channel update="i" site="tapdmv.com" site_id="f19d5e7a-3d27-42a8-aff6-2431138dac38" xmltv_id="SPORTSPLUS">SPORTSPLUS</channel>
+    <channel update="i" site="tapdmv.com" site_id="7fff40e4-b5eb-43f8-9b1f-d7f6667ff19d" xmltv_id="TALKSHOWS">TALKSHOWS</channel>
+    <channel update="i" site="tapdmv.com" site_id="11966493-c6ca-4dae-bf31-ed5b61fb13b0" xmltv_id="BLASTFC">BLASTFC</channel>
+    <channel update="i" site="tapdmv.com" site_id="b5254804-2ba8-44a0-bbf9-ca40ce086fd3" xmltv_id="UFCTV">UFCTV</channel>
+    <channel update="i" site="tapdmv.com" site_id="dd8792d2-fe27-46e5-87de-36967197cc2d" xmltv_id="GAMESHOWCENTRAL">GAMESHOWCENTRAL</channel>
+    <channel update="i" site="tapdmv.com" site_id="021efa5a-ea90-4dcd-928b-d96e3aa9c0e1" xmltv_id="COMICU">COMICU</channel>
+    <channel update="i" site="tapdmv.com" site_id="ae0285bd-dca1-4ee3-8795-462c495aa376" xmltv_id="GOLFPLUS">GOLFPLUS</channel>
+    <channel update="i" site="tapdmv.com" site_id="c08b7266-878f-451c-a05a-6ffbb38ba3db" xmltv_id="SHOWCASEDRAMAS">SHOWCASEDRAMAS</channel>
+    <channel update="i" site="tapdmv.com" site_id="e39a3e27-96a2-4764-84c3-31d33104cb76" xmltv_id="CUE">CUE</channel>
+    <channel update="i" site="tapdmv.com" site_id="154d67d1-3b8d-47a7-acf9-3b51af8193f5" xmltv_id="FIGHTTICKET">FIGHTTICKET</channel>
+    <channel update="i" site="tapdmv.com" site_id="9d68438c-33d5-4082-b4d1-ae9a78bf673f" xmltv_id="WTAACCESS">WTAACCESS</channel>
+    <channel update="i" site="tapdmv.com" site_id="e604eaa0-7fb4-488b-abfe-caca27cc5f85" xmltv_id="ROCKENTERTAINMENT">ROCKENTERTAINMENT</channel>
+    <channel update="i" site="tapdmv.com" site_id="a2a95416-8663-4492-9030-67a7b1d37417" xmltv_id="ARIRANG">ARIRANG</channel>
+    <channel update="i" site="tapdmv.com" site_id="af697257-47ec-4770-a0e0-8391d277a77f" xmltv_id="DISCOVERYASIA">DISCOVERYASIA</channel>
+    <channel update="i" site="tapdmv.com" site_id="a75ded3f-c5e4-46e2-b782-d5e83b786bbf" xmltv_id="ROCKACTION">ROCKACTION</channel>
+    <channel update="i" site="tapdmv.com" site_id="a6ce5d86-f87d-4fbd-bba1-9dadfe9f30d7" xmltv_id="GLOBALTREKKER">GLOBALTREKKER</channel>
+    <channel update="i" site="tapdmv.com" site_id="67197c87-e494-40ef-8832-c90ef72f877b" xmltv_id="MTVLIVE">MTVLIVE</channel>
+    <channel update="i" site="tapdmv.com" site_id="e7418313-0d31-48ae-9005-838bbd7c4269" xmltv_id="MTV90S">MTV90S</channel>
+    <channel update="i" site="tapdmv.com" site_id="196ad303-d8dd-42df-8b08-92b8084cf113" xmltv_id="NICKJR">NICKJR</channel>
+    <channel update="i" site="tapdmv.com" site_id="08220d6a-1597-4d6d-b35b-d575e5361b2e" xmltv_id="PARAMOUNTNETWORK">PARAMOUNTNETWORK</channel>
+    <channel update="i" site="tapdmv.com" site_id="538051ca-9faf-4a61-b28c-387cc9529971" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel update="i" site="tapdmv.com" site_id="cb13167a-16b5-44a9-9056-bb3380cbab04" xmltv_id="ANIPLUS">ANIPLUS</channel>
+    <channel update="i" site="tapdmv.com" site_id="c703509c-392a-4eec-bcb0-513a30a3b933" xmltv_id="CINEMAWORLD">CINEMAWORLD</channel>
+    <channel update="i" site="tapdmv.com" site_id="ee9500aa-a198-4ea8-8aa8-3a60070457f3" xmltv_id="ANC">ANC</channel>
+    <channel update="i" site="tapdmv.com" site_id="a845a4bd-7539-4c4c-bfa9-d977ea9465db" xmltv_id="DAVINCIKIDS">DAVINCIKIDS</channel>
+    <channel update="i" site="tapdmv.com" site_id="59050ed4-7885-4159-87de-2ee5735c61f4" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="tapdmv.com" site_id="ebb29a3b-ba35-45d8-981d-f690434935c5" xmltv_id="KBSWORLD">KBSWORLD</channel>
+    <channel update="i" site="tapdmv.com" site_id="ee09a248-6c17-4424-8aa6-0cf70ebcc308" xmltv_id="DREAMWORKS">DREAMWORKS</channel>
+    <channel update="i" site="tapdmv.com" site_id="7bcedd9b-2544-4c3c-b6a9-e2951a7e7143" xmltv_id="ANIMAX">ANIMAX</channel>
+    <channel update="i" site="tapdmv.com" site_id="c9c7dc62-a2f3-4c25-a6c6-a5d14870b204" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tapdmv.com" site_id="ef6fe7d2-7dfd-403a-9531-510f3b56e5e7" xmltv_id="DISCOVERYCHANNEL">DISCOVERYCHANNEL</channel>
+    <channel update="i" site="tapdmv.com" site_id="f08995d0-11b6-484d-97cd-f3211c12b941" xmltv_id="ANIMALPLANET">ANIMALPLANET</channel>
+    <channel update="i" site="tapdmv.com" site_id="7b7ecc4e-5c43-44b5-afc9-fb4dc1ad64ab" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="tapdmv.com" site_id="f3d648ca-f988-4f1d-bdf2-eebff8b8a334" xmltv_id="ASIANFOODCHANNEL">ASIANFOODCHANNEL</channel>
+    <channel update="i" site="tapdmv.com" site_id="40457bed-1f64-4833-adc9-1ff9015788a4" xmltv_id="TAPSPORTS">TAPSPORTS</channel>
+    <channel update="i" site="tapdmv.com" site_id="bb90c36c-7f9f-4df9-97c5-c8f05c3ee767" xmltv_id="TELERADYO">TELERADYO</channel>
+    <channel update="i" site="tapdmv.com" site_id="94905664-50bb-4d4a-8ba2-d06a2ccd71c3" xmltv_id="TAPEDGE">TAPEDGE</channel>
+    <channel update="i" site="tapdmv.com" site_id="fb372a75-1595-4e41-82af-d731c4353b8b" xmltv_id="TAPTV">TAPTV</channel>
+    <channel update="i" site="tapdmv.com" site_id="94b7db9b-5bbd-47d3-a2d3-ce792342a756" xmltv_id="TAPACTIONFLIX">TAPACTIONFLIX</channel>
+    <channel update="i" site="tapdmv.com" site_id="470085cd-91c6-4878-9233-6f8c894538ef" xmltv_id="EDGESPORT">EDGESPORT</channel>
+    <channel update="i" site="tapdmv.com" site_id="848ee7a7-f082-436c-9e10-128dd9e52e05" xmltv_id="TAPMOVIES">TAPMOVIES</channel>
+    <channel update="i" site="tapdmv.com" site_id="3ceaf9fa-5f4e-4263-ad6b-925061275d24" xmltv_id="PREMIERFOOTBALL">PREMIERFOOTBALL</channel>
+    <channel update="i" site="tapdmv.com" site_id="24249e64-374c-4c32-bc02-1bfa953fa5ea" xmltv_id="PREMIERSPORTS1">PREMIERSPORTS1</channel>
+    <channel update="i" site="tapdmv.com" site_id="c8997290-0446-455e-9b55-ca3c749786b6" xmltv_id="PREMIERSPORTS2">PREMIERSPORTS2</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=718##_##icon_file=718_home.png" xmltv_id="Sky Uno HD">Sky Uno HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8456##_##icon_file=8456_home.png" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=122##_##icon_file=122_home.png" xmltv_id="Fox HD">Fox HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=133##_##icon_file=133_home.png" xmltv_id="Fox Life HD">Fox Life HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=139##_##icon_file=139_home.png" xmltv_id="Fox Crime HD">Fox Crime HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8336##_##icon_file=27646_home.png" xmltv_id="CI Crime+ Investigation HD">CI Crime+ Investigation HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8193##_##icon_file=8193_home.png" xmltv_id="Sky Arte HD">Sky Arte HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8195##_##icon_file=8195_home.png" xmltv_id="TV8      ">TV8      </channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8455##_##icon_file=8455_home.png" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=318##_##icon_file=27071_home.png" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8133##_##icon_file=24560_home.png" xmltv_id="Cielo HD">Cielo HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8853##_##icon_file=8853_home.png" xmltv_id="Fox Animation HD">Fox Animation HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8833##_##icon_file=8833_home.png" xmltv_id="Fox Comedy HD">Fox Comedy HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=423##_##icon_file=423_home.png" xmltv_id="Lei">Lei</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=522##_##icon_file=522_home.png" xmltv_id="Real Time HD">Real Time HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9196##_##icon_file=9196_home.png" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6503##_##icon_file=6503_home.png" xmltv_id="AXN Sci-Fi">AXN Sci-Fi</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8007##_##icon_file=24875_home.png" xmltv_id="Classica HD">Classica HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7587##_##icon_file=7587_home.png" xmltv_id="Automoto TV">Automoto TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6440##_##icon_file=6440_home.png" xmltv_id="MAN-GA">MAN-GA</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6761##_##icon_file=6761_home.png" xmltv_id="Sky 3D - Ch 150">Sky 3D - Ch 150</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6400##_##icon_file=6400_home.png" xmltv_id="La3">La3</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=929##_##icon_file=929_home.png" xmltv_id="Sky Sport24 HD">Sky Sport24 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8714##_##icon_file=8714_home.png" xmltv_id="Sky Sport 1 HD">Sky Sport 1 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7507##_##icon_file=7507_home.png" xmltv_id="Sky Sport 2 HD">Sky Sport 2 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8693##_##icon_file=8693_home.png" xmltv_id="Sky Sport 3 HD">Sky Sport 3 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8027##_##icon_file=21464_home.png" xmltv_id="Fox Sports HD">Fox Sports HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8413##_##icon_file=30366_home.png" xmltv_id="Sky Sport F1 HD">Sky Sport F1 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8434##_##icon_file=8434_home.png" xmltv_id="Sky Sport MotoGP HD">Sky Sport MotoGP HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=307##_##icon_file=307_home.png" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=101##_##icon_file=101_home.png" xmltv_id="Sky Cinema 1 HD">Sky Cinema 1 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=724##_##icon_file=724_home.png" xmltv_id="Sky Cinema Hits HD">Sky Cinema Hits HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=105##_##icon_file=105_home.png" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6581##_##icon_file=6581_home.png" xmltv_id="Sky Cinema Passion HD">Sky Cinema Passion HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6561##_##icon_file=6561_home.png" xmltv_id="Sky Cinema Comedy HD">Sky Cinema Comedy HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=115##_##icon_file=115_home.png" xmltv_id="Sky Cinema Max HD">Sky Cinema Max HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6141##_##icon_file=6141_home.png" xmltv_id="Sky Cinema Cult HD">Sky Cinema Cult HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=723##_##icon_file=723_home.png" xmltv_id="Sky Cinema Classics HD">Sky Cinema Classics HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7667##_##icon_file=7667_home.png" xmltv_id="Primafila 1">Primafila 1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=931##_##icon_file=931_home.png" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=641##_##icon_file=641_home.png" xmltv_id="National Geo HD">National Geo HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=467##_##icon_file=467_home.png" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=465##_##icon_file=465_home.png" xmltv_id="Discovery Travel &amp; Living HD">Discovery Travel &amp; Living HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=639##_##icon_file=639_home.png" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=126##_##icon_file=126_home.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7407##_##icon_file=7407_home.png" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=524##_##icon_file=524_home.png" xmltv_id="Gambero Rosso HD">Gambero Rosso HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6360##_##icon_file=6360_home.png" xmltv_id="Dove">Dove</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7687##_##icon_file=7687_home.png" xmltv_id="eXplora HD">eXplora HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=519##_##icon_file=519_home.png" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=362##_##icon_file=22943_home.png" xmltv_id="Sky TG24 HD">Sky TG24 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=460##_##icon_file=26568_home.png" xmltv_id="DeAKids">DeAKids</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=461##_##icon_file=461_home.png" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=320##_##icon_file=320_home.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=129##_##icon_file=27420_home.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=472##_##icon_file=472_home.png" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=453##_##icon_file=20150_home.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=118##_##icon_file=118_home.png" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=131##_##icon_file=131_home.png" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7427##_##icon_file=7427_home.png" xmltv_id="DeA Junior">DeA Junior</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6160##_##icon_file=6160_home.png" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6460##_##icon_file=6460_home.png" xmltv_id="Super!">Super!</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6240##_##icon_file=6240_home.png" xmltv_id="K2">K2</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=543##_##icon_file=543_home.png" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=542##_##icon_file=542_home.png" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=528##_##icon_file=528_home.png" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=462##_##icon_file=462_home.png" xmltv_id="My Deejay">My Deejay</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=333##_##icon_file=333_home.png" xmltv_id="Rock TV">Rock TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=309##_##icon_file=23733_home.png" xmltv_id="Hip Hop TV">Hip Hop TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=899##_##icon_file=899_home.png" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=898##_##icon_file=898_home.png" xmltv_id="Rai Due">Rai Due</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=897##_##icon_file=897_home.png" xmltv_id="Rai Tre">Rai Tre</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=319##_##icon_file=24064_home.png" xmltv_id="La7">La7</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=718##_##icon_file=718_home.png" xmltv_id="Sky Uno HD">Sky Uno HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=120##_##icon_file=120_home.png" xmltv_id="Sky Uno + 1 HD">Sky Uno + 1 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8456##_##icon_file=8456_home.png" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9413##_##icon_file=9413_home.png" xmltv_id="Sky Mario HD">Sky Mario HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=122##_##icon_file=122_home.png" xmltv_id="Fox HD">Fox HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=635##_##icon_file=635_home.png" xmltv_id="Fox +1">Fox +1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=133##_##icon_file=133_home.png" xmltv_id="Fox Life HD">Fox Life HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=529##_##icon_file=529_home.png" xmltv_id="Fox Life +1">Fox Life +1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=139##_##icon_file=139_home.png" xmltv_id="Fox Crime HD">Fox Crime HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=588##_##icon_file=588_home.png" xmltv_id="Fox Crime +1">Fox Crime +1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8336##_##icon_file=27646_home.png" xmltv_id="CI Crime+ Investigation HD">CI Crime+ Investigation HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8193##_##icon_file=8193_home.png" xmltv_id="Sky Arte HD">Sky Arte HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8195##_##icon_file=8195_home.png" xmltv_id="TV8      ">TV8      </channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8455##_##icon_file=8455_home.png" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6420##_##icon_file=6420_home.png" xmltv_id="AXN + 1">AXN + 1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=318##_##icon_file=27071_home.png" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8353##_##icon_file=8353_home.png" xmltv_id="Comedy Central + 1">Comedy Central + 1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8133##_##icon_file=24560_home.png" xmltv_id="Cielo HD">Cielo HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8853##_##icon_file=8853_home.png" xmltv_id="Fox Animation HD">Fox Animation HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8833##_##icon_file=8833_home.png" xmltv_id="Fox Comedy HD">Fox Comedy HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=423##_##icon_file=423_home.png" xmltv_id="Lei">Lei</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7747##_##icon_file=7747_home.png" xmltv_id="LEI +1">LEI +1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=522##_##icon_file=522_home.png" xmltv_id="Real Time HD">Real Time HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6504##_##icon_file=6504_home.png" xmltv_id="Real Time+1">Real Time+1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9196##_##icon_file=9196_home.png" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6503##_##icon_file=6503_home.png" xmltv_id="AXN Sci-Fi">AXN Sci-Fi</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8933##_##icon_file=8933_home.png" xmltv_id="DMAX HD">DMAX HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8513##_##icon_file=8513_home.png" xmltv_id="DMAX +1">DMAX +1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8007##_##icon_file=24875_home.png" xmltv_id="Classica HD">Classica HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8128##_##icon_file=23838_home.png" xmltv_id="Laeffe">Laeffe</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7588##_##icon_file=7588_home.png" xmltv_id="TV2000">TV2000</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6505##_##icon_file=6505_home.png" xmltv_id="Fox Crime +2">Fox Crime +2</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8131##_##icon_file=8131_home.png" xmltv_id="Giallo">Giallo</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=974##_##icon_file=974_home.png" xmltv_id="Deejay TV  NOVE ">Deejay TV  NOVE </channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7587##_##icon_file=7587_home.png" xmltv_id="Automoto TV">Automoto TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6440##_##icon_file=6440_home.png" xmltv_id="MAN-GA">MAN-GA</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6761##_##icon_file=6761_home.png" xmltv_id="Sky 3D - Ch 150">Sky 3D - Ch 150</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6400##_##icon_file=6400_home.png" xmltv_id="La3">La3</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=899##_##icon_file=899_home.png" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=898##_##icon_file=898_home.png" xmltv_id="Rai Due">Rai Due</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=897##_##icon_file=897_home.png" xmltv_id="Rai Tre">Rai Tre</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9213##_##icon_file=9213_home.png" xmltv_id="Rai 4">Rai 4</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9217##_##icon_file=9217_home.png" xmltv_id="Sky Uno  HD">Sky Uno  HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9215##_##icon_file=9215_home.png" xmltv_id="Fox  HD">Fox  HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=319##_##icon_file=24064_home.png" xmltv_id="La7">La7</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=929##_##icon_file=929_home.png" xmltv_id="Sky Sport24 HD">Sky Sport24 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8714##_##icon_file=8714_home.png" xmltv_id="Sky Sport 1 HD">Sky Sport 1 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7507##_##icon_file=7507_home.png" xmltv_id="Sky Sport 2 HD">Sky Sport 2 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8693##_##icon_file=8693_home.png" xmltv_id="Sky Sport 3 HD">Sky Sport 3 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8027##_##icon_file=21464_home.png" xmltv_id="Fox Sports HD">Fox Sports HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8753##_##icon_file=8753_home.png" xmltv_id="Sky Sport Plus HD">Sky Sport Plus HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8673##_##icon_file=8673_home.png" xmltv_id="Sky Supercalcio HD">Sky Supercalcio HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8413##_##icon_file=30366_home.png" xmltv_id="Sky Sport F1 HD">Sky Sport F1 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8434##_##icon_file=8434_home.png" xmltv_id="Sky Sport MotoGP HD">Sky Sport MotoGP HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=307##_##icon_file=307_home.png" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=391##_##icon_file=391_home.png" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9193##_##icon_file=9193_home.png" xmltv_id="J !??! Juventus TV">J !??! Juventus TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9194##_##icon_file=9194_home.png" xmltv_id="Roma TV">Roma TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9253##_##icon_file=9253_home.png" xmltv_id="Bike Channel HD">Bike Channel HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6781##_##icon_file=6781_home.png" xmltv_id="Sky 3D - Ch 209">Sky 3D - Ch 209</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7987##_##icon_file=23845_home.png" xmltv_id="UnireSat">UnireSat</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6611##_##icon_file=20149_home.png" xmltv_id="Class Horse TV">Class Horse TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6613##_##icon_file=23730_home.png" xmltv_id="PokerItalia24">PokerItalia24</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6000##_##icon_file=25900_home.png" xmltv_id="SuperTennis HD">SuperTennis HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8793##_##icon_file=8793_home.png" xmltv_id="Sportitalia">Sportitalia</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=807##_##icon_file=807_home.png" xmltv_id="Rai Sport 1">Rai Sport 1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6612##_##icon_file=6612_home.png" xmltv_id="Rai Sport 2">Rai Sport 2</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=322##_##icon_file=322_home.png" xmltv_id="Milan Channel">Milan Channel</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=456##_##icon_file=456_home.png" xmltv_id="Inter Channel">Inter Channel</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7527##_##icon_file=7527_home.png" xmltv_id="Lazio Style Channel">Lazio Style Channel</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=520##_##icon_file=23731_home.png" xmltv_id="Caccia e Pesca">Caccia e Pesca</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6220##_##icon_file=23750_home.png" xmltv_id="Pesca e Caccia">Pesca e Caccia</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=719##_##icon_file=719_home.png" xmltv_id="Sky Calcio 1 HD">Sky Calcio 1 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8713##_##icon_file=8713_home.png" xmltv_id="Sky Calcio 2 HD">Sky Calcio 2 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8733##_##icon_file=8733_home.png" xmltv_id="Sky Calcio 3 HD">Sky Calcio 3 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8715##_##icon_file=8715_home.png" xmltv_id="Sky Calcio 4 HD">Sky Calcio 4 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8634##_##icon_file=8634_home.png" xmltv_id="Sky Calcio 5 HD">Sky Calcio 5 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8636##_##icon_file=8636_home.png" xmltv_id="Sky Calcio 6 HD">Sky Calcio 6 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8635##_##icon_file=8635_home.png" xmltv_id="Sky Calcio 7 HD">Sky Calcio 7 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8633##_##icon_file=8633_home.png" xmltv_id="Sky Calcio 8 HD">Sky Calcio 8 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8613##_##icon_file=8613_home.png" xmltv_id="Sky Calcio 9">Sky Calcio 9</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=615##_##icon_file=615_home.png" xmltv_id="Sky Calcio 10">Sky Calcio 10</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=617##_##icon_file=617_home.png" xmltv_id="Sky Calcio 11">Sky Calcio 11</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=618##_##icon_file=618_home.png" xmltv_id="Sky Calcio 12">Sky Calcio 12</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=619##_##icon_file=619_home.png" xmltv_id="Sky Calcio 13">Sky Calcio 13</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=101##_##icon_file=101_home.png" xmltv_id="Sky Cinema 1 HD">Sky Cinema 1 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=722##_##icon_file=722_home.png" xmltv_id="Sky Cinema + 1 HD">Sky Cinema + 1 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=452##_##icon_file=452_home.png" xmltv_id="Sky Cinema + 24 HD">Sky Cinema + 24 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=724##_##icon_file=724_home.png" xmltv_id="Sky Cinema Hits HD">Sky Cinema Hits HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=105##_##icon_file=105_home.png" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7947##_##icon_file=7947_home.png" xmltv_id="Sky Cinema Family +1 HD">Sky Cinema Family +1 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6581##_##icon_file=6581_home.png" xmltv_id="Sky Cinema Passion HD">Sky Cinema Passion HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6561##_##icon_file=6561_home.png" xmltv_id="Sky Cinema Comedy HD">Sky Cinema Comedy HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=115##_##icon_file=115_home.png" xmltv_id="Sky Cinema Max HD">Sky Cinema Max HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=451##_##icon_file=451_home.png" xmltv_id="Sky Cinema Max + 1 HD">Sky Cinema Max + 1 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6141##_##icon_file=6141_home.png" xmltv_id="Sky Cinema Cult HD">Sky Cinema Cult HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=723##_##icon_file=723_home.png" xmltv_id="Sky Cinema Classics HD">Sky Cinema Classics HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6801##_##icon_file=6801_home.png" xmltv_id="Sky 3D - Ch 321">Sky 3D - Ch 321</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7767##_##icon_file=7767_home.png" xmltv_id="Sky Arte HD-400">Sky Arte HD-400</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=931##_##icon_file=931_home.png" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=331##_##icon_file=331_home.png" xmltv_id="Discovery Ch +1">Discovery Ch +1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=641##_##icon_file=641_home.png" xmltv_id="National Geo HD">National Geo HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=125##_##icon_file=125_home.png" xmltv_id="National Geo +1">National Geo +1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=467##_##icon_file=467_home.png" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=465##_##icon_file=465_home.png" xmltv_id="Discovery Travel &amp; Living HD">Discovery Travel &amp; Living HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=639##_##icon_file=639_home.png" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=123##_##icon_file=123_home.png" xmltv_id="History Ch +1">History Ch +1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=126##_##icon_file=126_home.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8813##_##icon_file=8813_home.png" xmltv_id="Nat Geo Wild +1">Nat Geo Wild +1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7407##_##icon_file=7407_home.png" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=524##_##icon_file=524_home.png" xmltv_id="Gambero Rosso HD">Gambero Rosso HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6360##_##icon_file=6360_home.png" xmltv_id="Dove">Dove</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7687##_##icon_file=7687_home.png" xmltv_id="eXplora HD">eXplora HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=519##_##icon_file=519_home.png" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8130##_##icon_file=23823_home.png" xmltv_id="Focus Tv">Focus Tv</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8107##_##icon_file=26827_home.png" xmltv_id="La Sposa">La Sposa</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7402##_##icon_file=7402_home.png" xmltv_id="Doctor's Life">Doctor's Life</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6626##_##icon_file=6626_home.png" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=362##_##icon_file=22943_home.png" xmltv_id="Sky TG24 HD">Sky TG24 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=321##_##icon_file=321_home.png" xmltv_id="Sky TG 24 Meteo">Sky TG 24 Meteo</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6510##_##icon_file=6510_home.png" xmltv_id="TG24 Primo Piano">TG24 Primo Piano</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6511##_##icon_file=6511_home.png" xmltv_id="TG24 Eventi">TG24 Eventi</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6512##_##icon_file=6512_home.png" xmltv_id="TG24 Rassegne">TG24 Rassegne</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=308##_##icon_file=308_home.png" xmltv_id="Class-Cnbc">Class-Cnbc</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=895##_##icon_file=895_home.png" xmltv_id="Rai News">Rai News</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6481##_##icon_file=6481_home.png" xmltv_id="TG Norba24">TG Norba24</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8993##_##icon_file=8993_home.png" xmltv_id="Reteconomy">Reteconomy</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9013##_##icon_file=9013_home.png" xmltv_id="TRM h24">TRM h24</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6861##_##icon_file=6861_home.png" xmltv_id="SMtv San Marino">SMtv San Marino</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=801##_##icon_file=801_home.gif" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=445##_##icon_file=445_home.png" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=446##_##icon_file=446_home.png" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=312##_##icon_file=312_home.png" xmltv_id="CNN Intl">CNN Intl</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6741##_##icon_file=6741_home.png" xmltv_id="Fox Business">Fox Business</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=444##_##icon_file=444_home.png" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=349##_##icon_file=349_home.png" xmltv_id="Bloomberg ">Bloomberg </channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7968##_##icon_file=7968_home.png" xmltv_id="France 24 English  ">France 24 English  </channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6886##_##icon_file=6886_home.png" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8273##_##icon_file=26321_home.png" xmltv_id="I24news">I24news</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=5119##_##icon_file=5119_home.png" xmltv_id="France 24 ">France 24 </channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8873##_##icon_file=8873_home.png" xmltv_id="RT Doc HD">RT Doc HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=460##_##icon_file=26568_home.png" xmltv_id="DeAKids">DeAKids</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=364##_##icon_file=26589_home.png" xmltv_id="DeAKids+1">DeAKids+1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=461##_##icon_file=461_home.png" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6701##_##icon_file=6701_home.png" xmltv_id="Nick Junior + 1">Nick Junior + 1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=320##_##icon_file=320_home.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6140##_##icon_file=6140_home.png" xmltv_id="Nickelodeon + 1">Nickelodeon + 1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=129##_##icon_file=27420_home.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=476##_##icon_file=476_home.png" xmltv_id="Cartoon Network +1 ">Cartoon Network +1 </channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=472##_##icon_file=472_home.png" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=479##_##icon_file=479_home.png" xmltv_id="Boomerang + 1">Boomerang + 1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=453##_##icon_file=20150_home.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=132##_##icon_file=20151_home.png" xmltv_id="Disney Junior + 1">Disney Junior + 1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=118##_##icon_file=118_home.png" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=450##_##icon_file=450_home.png" xmltv_id="Disney Channel +1">Disney Channel +1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6821##_##icon_file=6821_home.png" xmltv_id="Disney Channel +2">Disney Channel +2</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=131##_##icon_file=131_home.png" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=475##_##icon_file=475_home.png" xmltv_id="Disney XD +1">Disney XD +1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6822##_##icon_file=6822_home.png" xmltv_id="Disney XD +2">Disney XD +2</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=454##_##icon_file=454_home.png" xmltv_id="Disney in English">Disney in English</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9235##_##icon_file=9235_home.png" xmltv_id="TeenNick">TeenNick</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7427##_##icon_file=7427_home.png" xmltv_id="DeA Junior">DeA Junior</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6160##_##icon_file=6160_home.png" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6460##_##icon_file=6460_home.png" xmltv_id="Super!">Super!</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6240##_##icon_file=6240_home.png" xmltv_id="K2">K2</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6610##_##icon_file=6610_home.png" xmltv_id="Frisbee">Frisbee</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6300##_##icon_file=6300_home.png" xmltv_id="Sky Radio">Sky Radio</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=334##_##icon_file=334_home.png" xmltv_id="Sky Music">Sky Music</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=543##_##icon_file=543_home.png" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=542##_##icon_file=542_home.png" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=528##_##icon_file=528_home.png" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=462##_##icon_file=462_home.png" xmltv_id="My Deejay">My Deejay</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=333##_##icon_file=333_home.png" xmltv_id="Rock TV">Rock TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=309##_##icon_file=23733_home.png" xmltv_id="Hip Hop TV">Hip Hop TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8233##_##icon_file=25692_home.png" xmltv_id="Radio Italia Tv">Radio Italia Tv</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8213##_##icon_file=25780_home.png" xmltv_id="Radionorba TV">Radionorba TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6885##_##icon_file=6885_home.png" xmltv_id="RTL 102.5 TV">RTL 102.5 TV</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7667##_##icon_file=7667_home.png" xmltv_id="Primafila 1">Primafila 1</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=942##_##icon_file=942_home.png" xmltv_id="Primafila 2">Primafila 2</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8373##_##icon_file=8373_home.png" xmltv_id="Primafila 3 HD">Primafila 3 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=944##_##icon_file=944_home.png" xmltv_id="Primafila 4">Primafila 4</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=203##_##icon_file=203_home.png" xmltv_id="Primafila 5">Primafila 5</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=945##_##icon_file=945_home.png" xmltv_id="Primafila 6">Primafila 6</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8374##_##icon_file=8374_home.png" xmltv_id="Primafila 7 HD">Primafila 7 HD</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=609##_##icon_file=609_home.png" xmltv_id="Primafila 8">Primafila 8</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=947##_##icon_file=947_home.png" xmltv_id="Primafila 9">Primafila 9</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=948##_##icon_file=948_home.png" xmltv_id="Primafila 10">Primafila 10</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=205##_##icon_file=205_home.png" xmltv_id="Primafila 11">Primafila 11</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=943##_##icon_file=943_home.png" xmltv_id="Primafila 12">Primafila 12</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=84##_##icon_file=84_home.png" xmltv_id="Primafila 13">Primafila 13</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=75##_##icon_file=75_home.png" xmltv_id="Primafila 14">Primafila 14</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=76##_##icon_file=76_home.png" xmltv_id="Primafila 15">Primafila 15</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=601##_##icon_file=601_home.png" xmltv_id="Primafila 16">Primafila 16</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=605##_##icon_file=605_home.png" xmltv_id="Primafila 17">Primafila 17</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=79##_##icon_file=79_home.png" xmltv_id="Primafila 18">Primafila 18</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=390##_##icon_file=390_home.png" xmltv_id="Primafila 19">Primafila 19</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6601##_##icon_file=6601_home.png" xmltv_id="Rai 1 (DTT)">Rai 1 (DTT)</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6621##_##icon_file=6621_home.png" xmltv_id="Rai 2 (DTT)">Rai 2 (DTT)</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6602##_##icon_file=6602_home.png" xmltv_id="Rai 3 (DTT)">Rai 3 (DTT)</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6603##_##icon_file=6603_home.png" xmltv_id="Rete 4 (DTT)">Rete 4 (DTT)</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6604##_##icon_file=6604_home.png" xmltv_id="Canale 5 (DTT)">Canale 5 (DTT)</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6605##_##icon_file=6605_home.png" xmltv_id="Italia 1 (DTT)">Italia 1 (DTT)</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8329##_##icon_file=27088_home.png" xmltv_id="La7 DTT">La7 DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8327##_##icon_file=8327_home.png" xmltv_id="TV8 DTT">TV8 DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8328##_##icon_file=8328_home.png" xmltv_id="Deejay TV NOVE DTT ">Deejay TV NOVE DTT </channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6622##_##icon_file=6622_home.png" xmltv_id="Rai 4 DTT">Rai 4 DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6606##_##icon_file=6606_home.png" xmltv_id="Iris">Iris</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6607##_##icon_file=6607_home.png" xmltv_id="Rai 5">Rai 5</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6608##_##icon_file=6608_home.png" xmltv_id="Rai Movie">Rai Movie</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6623##_##icon_file=6623_home.png" xmltv_id="Rai Premium">Rai Premium</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8773##_##icon_file=8773_home.png" xmltv_id="Cielo DTT">Cielo DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8325##_##icon_file=27092_home.png" xmltv_id="TV2000 DTT">TV2000 DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6624##_##icon_file=23844_home.png" xmltv_id="La7D">La7D</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6625##_##icon_file=6625_home.png" xmltv_id="La5">La5</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8323##_##icon_file=27127_home.png" xmltv_id="Real Time DTT">Real Time DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8321##_##icon_file=27111_home.png" xmltv_id="QVC DTT">QVC DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6627##_##icon_file=6627_home.png" xmltv_id="Mediaset Extra">Mediaset Extra</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=7967##_##icon_file=7967_home.png" xmltv_id="Mediaset Italia Due DTT">Mediaset Italia Due DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9234##_##icon_file=9234_home.png" xmltv_id="GIALLO DTT">GIALLO DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8320##_##icon_file=27094_home.png" xmltv_id="RTL 102.5 TV DTT">RTL 102.5 TV DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8127##_##icon_file=24031_home.png" xmltv_id="Top Crime">Top Crime</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6628##_##icon_file=6628_home.png" xmltv_id="Boing">Boing</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8318##_##icon_file=27113_home.png" xmltv_id="K2 Kids Tv DTT">K2 Kids Tv DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6629##_##icon_file=6629_home.png" xmltv_id="Rai Gulp">Rai Gulp</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6609##_##icon_file=6609_home.png" xmltv_id="Rai Yoyo">Rai Yoyo</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8316##_##icon_file=8316_home.png" xmltv_id="Frisbee DTT">Frisbee DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8132##_##icon_file=23821_home.png" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8314##_##icon_file=27114_home.png" xmltv_id="Super! DTT">Super! DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8319##_##icon_file=27097_home.png" xmltv_id="Rai News DTT">Rai News DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9313##_##icon_file=9313_home.png" xmltv_id="Sky Tg24 DTT2">Sky Tg24 DTT2</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9233##_##icon_file=9233_home.png" xmltv_id="DMAX DTT">DMAX DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=6630##_##icon_file=6630_home.png" xmltv_id="Rai Storia">Rai Storia</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=9237##_##icon_file=9237_home.png" xmltv_id="Focus DTT">Focus DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8317##_##icon_file=27098_home.png" xmltv_id="Rai Sport 1 DTT">Rai Sport 1 DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8315##_##icon_file=27115_home.png" xmltv_id="Rai Sport 2 DTT">Rai Sport 2 DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8322##_##icon_file=27128_home.png" xmltv_id="SuperTennis DTT">SuperTennis DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8313##_##icon_file=27116_home.png" xmltv_id="MTV Music DTT">MTV Music DTT</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="##id=8326##_##icon_file=27101_home.png" xmltv_id="France 24 DTT">France 24 DTT</channel>
+    <channel update="i" site="tv.sky.com" site_id="2002" xmltv_id="BBC One Lon">BBC One Lon</channel>
+    <channel update="i" site="tv.sky.com" site_id="2075" xmltv_id="BBC Two HD">BBC Two HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="6000" xmltv_id="ITV">ITV</channel>
+    <channel update="i" site="tv.sky.com" site_id="1621" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="tv.sky.com" site_id="1800" xmltv_id="Channel 5">Channel 5</channel>
+    <channel update="i" site="tv.sky.com" site_id="4061" xmltv_id="Sky1 HD">Sky1 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4066" xmltv_id="Sky Living HD">Sky Living HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4053" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3810" xmltv_id="W HD">W HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="2304" xmltv_id="GOLD">GOLD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3809" xmltv_id="Dave HD">Dave HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4056" xmltv_id="ComedyCentHD">ComedyCentHD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4080" xmltv_id="Universal HD">Universal HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4074" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="2076" xmltv_id="BBC One HD">BBC One HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="2086" xmltv_id="BBC Four HD">BBC Four HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="5090" xmltv_id="London Live">London Live</channel>
+    <channel update="i" site="tv.sky.com" site_id="6532" xmltv_id="ITV2 HD">ITV2 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="6533" xmltv_id="ITV3 HD">ITV3 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="6534" xmltv_id="ITV4 HD">ITV4 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4063" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="2205" xmltv_id="Sky Living+1">Sky Living+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="6506" xmltv_id="ITV Encore HD">ITV Encore HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4023" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3812" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3831" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3802" xmltv_id="ComedyCent+1">ComedyCent+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1813" xmltv_id="ComedyXtra">ComedyXtra</channel>
+    <channel update="i" site="tv.sky.com" site_id="1833" xmltv_id="Sky2">Sky2</channel>
+    <channel update="i" site="tv.sky.com" site_id="1403" xmltv_id="Sky1 +1">Sky1 +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="6155" xmltv_id="ITV +1">ITV +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3825" xmltv_id="alibi HD">alibi HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4067" xmltv_id="Good Food HD">Good Food HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="5701" xmltv_id="S4C">S4C</channel>
+    <channel update="i" site="tv.sky.com" site_id="1670" xmltv_id="Channel 4 +1">Channel 4 +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4076" xmltv_id="E4 HD">E4 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3300" xmltv_id="E4+1">E4+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4043" xmltv_id="More4 HD">More4 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3310" xmltv_id="More4 +1">More4 +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3150" xmltv_id="4seven">4seven</channel>
+    <channel update="i" site="tv.sky.com" site_id="2006" xmltv_id="BBC Two Eng">BBC Two Eng</channel>
+    <channel update="i" site="tv.sky.com" site_id="2012" xmltv_id="BBC ALBA">BBC ALBA</channel>
+    <channel update="i" site="tv.sky.com" site_id="2018" xmltv_id="BBC Four">BBC Four</channel>
+    <channel update="i" site="tv.sky.com" site_id="6761" xmltv_id="QUEST">QUEST</channel>
+    <channel update="i" site="tv.sky.com" site_id="2202" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="tv.sky.com" site_id="3352" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="tv.sky.com" site_id="3602" xmltv_id="CBS Reality+1">CBS Reality+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4610" xmltv_id="CBS Action">CBS Action</channel>
+    <channel update="i" site="tv.sky.com" site_id="3617" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="tv.sky.com" site_id="3207" xmltv_id="Universal+1">Universal+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4028" xmltv_id="E! HD">E! HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1832" xmltv_id="Pick">Pick</channel>
+    <channel update="i" site="tv.sky.com" site_id="1836" xmltv_id="Pick+1">Pick+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="5451" xmltv_id="TLC+1">TLC+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="2325" xmltv_id="Really">Really</channel>
+    <channel update="i" site="tv.sky.com" site_id="3920" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3358" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel update="i" site="tv.sky.com" site_id="2612" xmltv_id="Drama">Drama</channel>
+    <channel update="i" site="tv.sky.com" site_id="3607" xmltv_id="ComedyXtra+1">ComedyXtra+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1032" xmltv_id="Spike">Spike</channel>
+    <channel update="i" site="tv.sky.com" site_id="4332" xmltv_id="Challenge+1">Challenge+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1791" xmltv_id="FOX+">FOX+</channel>
+    <channel update="i" site="tv.sky.com" site_id="2703" xmltv_id="GOLD +1">GOLD +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3618" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="tv.sky.com" site_id="1413" xmltv_id="Sky Atlantic+1">Sky Atlantic+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4058" xmltv_id="Channel 5HD">Channel 5HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="2207" xmltv_id="Real Lives">Real Lives</channel>
+    <channel update="i" site="tv.sky.com" site_id="4330" xmltv_id="Real Lives+1">Real Lives+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3022" xmltv_id="5 USA">5 USA</channel>
+    <channel update="i" site="tv.sky.com" site_id="3028" xmltv_id="Channel 5+24">Channel 5+24</channel>
+    <channel update="i" site="tv.sky.com" site_id="3023" xmltv_id="5STAR">5STAR</channel>
+    <channel update="i" site="tv.sky.com" site_id="1839" xmltv_id="Channel 5+1">Channel 5+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="6504" xmltv_id="ITV HD">ITV HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="6508" xmltv_id="ITVBe">ITVBe</channel>
+    <channel update="i" site="tv.sky.com" site_id="6241" xmltv_id="ITV2+1">ITV2+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3216" xmltv_id="Sony Chnl +1">Sony Chnl +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3208" xmltv_id="BEN">BEN</channel>
+    <channel update="i" site="tv.sky.com" site_id="5338" xmltv_id="True Drama">True Drama</channel>
+    <channel update="i" site="tv.sky.com" site_id="4266" xmltv_id="True Ent">True Ent</channel>
+    <channel update="i" site="tv.sky.com" site_id="1048" xmltv_id="True Crime">True Crime</channel>
+    <channel update="i" site="tv.sky.com" site_id="4205" xmltv_id="True Crime +1">True Crime +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3719" xmltv_id="BET:BlackEntTv">BET:BlackEntTv</channel>
+    <channel update="i" site="tv.sky.com" site_id="1305" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="tv.sky.com" site_id="4350" xmltv_id="propeller">propeller</channel>
+    <channel update="i" site="tv.sky.com" site_id="3024" xmltv_id="5STAR +1">5STAR +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="6758" xmltv_id="Irish TV">Irish TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="5036" xmltv_id="AMC from BT">AMC from BT</channel>
+    <channel update="i" site="tv.sky.com" site_id="6261" xmltv_id="ITV3+1">ITV3+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="2513" xmltv_id="Syfy +1">Syfy +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3621" xmltv_id="QUEST+1">QUEST+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="2301" xmltv_id="Home">Home</channel>
+    <channel update="i" site="tv.sky.com" site_id="5535" xmltv_id="Lifetime+1">Lifetime+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="5414" xmltv_id="tru TV">tru TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="5254" xmltv_id="YourTV">YourTV</channel>
+    <channel update="i" site="tv.sky.com" site_id="5245" xmltv_id="TLC+2">TLC+2</channel>
+    <channel update="i" site="tv.sky.com" site_id="2505" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="tv.sky.com" site_id="1628" xmltv_id="E4">E4</channel>
+    <channel update="i" site="tv.sky.com" site_id="3731" xmltv_id="My Channel">My Channel</channel>
+    <channel update="i" site="tv.sky.com" site_id="1842" xmltv_id="Universal">Universal</channel>
+    <channel update="i" site="tv.sky.com" site_id="2510" xmltv_id="ComedyCentral">ComedyCentral</channel>
+    <channel update="i" site="tv.sky.com" site_id="6274" xmltv_id="ITV4+1">ITV4+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1014" xmltv_id="ITVBe+1">ITVBe+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1007" xmltv_id="ITV Encore+1">ITV Encore+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="5358" xmltv_id="Showcase">Showcase</channel>
+    <channel update="i" site="tv.sky.com" site_id="2616" xmltv_id="W +1">W +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="2320" xmltv_id="Dave ja vu">Dave ja vu</channel>
+    <channel update="i" site="tv.sky.com" site_id="1402" xmltv_id="Sky1">Sky1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3108" xmltv_id="Vox Africa">Vox Africa</channel>
+    <channel update="i" site="tv.sky.com" site_id="3027" xmltv_id="5 USA +1">5 USA +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="2501" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tv.sky.com" site_id="2201" xmltv_id="Sky Living">Sky Living</channel>
+    <channel update="i" site="tv.sky.com" site_id="1412" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="tv.sky.com" site_id="1752" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel update="i" site="tv.sky.com" site_id="6240" xmltv_id="ITV2">ITV2</channel>
+    <channel update="i" site="tv.sky.com" site_id="2630" xmltv_id="alibi +1">alibi +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4075" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="5327" xmltv_id="E! +1">E! +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3340" xmltv_id="More4">More4</channel>
+    <channel update="i" site="tv.sky.com" site_id="3406" xmltv_id="AIT Int'l">AIT Int'l</channel>
+    <channel update="i" site="tv.sky.com" site_id="1865" xmltv_id="DMAX+1">DMAX+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="5450" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tv.sky.com" site_id="3411" xmltv_id="ABN TV">ABN TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="4320" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="tv.sky.com" site_id="5297" xmltv_id="Property Show">Property Show</channel>
+    <channel update="i" site="tv.sky.com" site_id="1360" xmltv_id="E!">E!</channel>
+    <channel update="i" site="tv.sky.com" site_id="2408" xmltv_id="Home &amp; Health">Home &amp; Health</channel>
+    <channel update="i" site="tv.sky.com" site_id="2410" xmltv_id="Home&amp;Health+">Home&amp;Health+</channel>
+    <channel update="i" site="tv.sky.com" site_id="4548" xmltv_id="Discovery Shed">Discovery Shed</channel>
+    <channel update="i" site="tv.sky.com" site_id="2326" xmltv_id="Good Food +1">Good Food +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="2309" xmltv_id="Home+1">Home+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="2617" xmltv_id="W">W</channel>
+    <channel update="i" site="tv.sky.com" site_id="2306" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="tv.sky.com" site_id="2303" xmltv_id="alibi">alibi</channel>
+    <channel update="i" site="tv.sky.com" site_id="3590" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="tv.sky.com" site_id="5607" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tv.sky.com" site_id="3592" xmltv_id="Food Netwrk+1">Food Netwrk+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="5617" xmltv_id="Travel Ch +1">Travel Ch +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1046" xmltv_id="Wellbeing">Wellbeing</channel>
+    <channel update="i" site="tv.sky.com" site_id="3001" xmltv_id="Horse &amp; Country">Horse &amp; Country</channel>
+    <channel update="i" site="tv.sky.com" site_id="2308" xmltv_id="Good Food">Good Food</channel>
+    <channel update="i" site="tv.sky.com" site_id="3583" xmltv_id="holiday+cruise">holiday+cruise</channel>
+    <channel update="i" site="tv.sky.com" site_id="5539" xmltv_id="Fashion One">Fashion One</channel>
+    <channel update="i" site="tv.sky.com" site_id="3206" xmltv_id="Showcase 3">Showcase 3</channel>
+    <channel update="i" site="tv.sky.com" site_id="6260" xmltv_id="ITV3">ITV3</channel>
+    <channel update="i" site="tv.sky.com" site_id="5415" xmltv_id="Forces TV">Forces TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="5308" xmltv_id="ShowBiz TV">ShowBiz TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="6272" xmltv_id="ITV4">ITV4</channel>
+    <channel update="i" site="tv.sky.com" site_id="6507" xmltv_id="ITV Encore">ITV Encore</channel>
+    <channel update="i" site="tv.sky.com" site_id="2515" xmltv_id="MTV+1">MTV+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="5253" xmltv_id="tru TV+1">tru TV+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="5037" xmltv_id="AMC from BTHD">AMC from BTHD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1047" xmltv_id="Insight HD">Insight HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="2296" xmltv_id="S4C HD">S4C HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1409" xmltv_id="Sky Premiere">Sky Premiere</channel>
+    <channel update="i" site="tv.sky.com" site_id="1823" xmltv_id="Sky Prem+1">Sky Prem+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1814" xmltv_id="Sky Showcase">Sky Showcase</channel>
+    <channel update="i" site="tv.sky.com" site_id="1815" xmltv_id="Sky Superheroes">Sky Superheroes</channel>
+    <channel update="i" site="tv.sky.com" site_id="1838" xmltv_id="Sky Disney">Sky Disney</channel>
+    <channel update="i" site="tv.sky.com" site_id="1808" xmltv_id="Sky Family">Sky Family</channel>
+    <channel update="i" site="tv.sky.com" site_id="1001" xmltv_id="Sky Action">Sky Action</channel>
+    <channel update="i" site="tv.sky.com" site_id="1002" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel update="i" site="tv.sky.com" site_id="1818" xmltv_id="Sky Thriller">Sky Thriller</channel>
+    <channel update="i" site="tv.sky.com" site_id="1816" xmltv_id="SkyDramaRom">SkyDramaRom</channel>
+    <channel update="i" site="tv.sky.com" site_id="1807" xmltv_id="Sky ScFi/Horror">Sky ScFi/Horror</channel>
+    <channel update="i" site="tv.sky.com" site_id="1811" xmltv_id="Sky Select">Sky Select</channel>
+    <channel update="i" site="tv.sky.com" site_id="4021" xmltv_id="SkyPremiereHD">SkyPremiereHD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4044" xmltv_id="Film4 HD">Film4 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1629" xmltv_id="Film4 +1">Film4 +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3811" xmltv_id="TCM HD">TCM HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="5275" xmltv_id="TCM+1">TCM+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3605" xmltv_id="horror channel">horror channel</channel>
+    <channel update="i" site="tv.sky.com" site_id="4502" xmltv_id="horror ch+1">horror ch+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3643" xmltv_id="True Movies 1">True Movies 1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3751" xmltv_id="True Movies 2">True Movies 2</channel>
+    <channel update="i" site="tv.sky.com" site_id="3709" xmltv_id="Sony Movies">Sony Movies</channel>
+    <channel update="i" site="tv.sky.com" site_id="3771" xmltv_id="Sony Movies+1">Sony Movies+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3708" xmltv_id="movies4men">movies4men</channel>
+    <channel update="i" site="tv.sky.com" site_id="3721" xmltv_id="mov4men+1">mov4men+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4420" xmltv_id="Movies 24">Movies 24</channel>
+    <channel update="i" site="tv.sky.com" site_id="4421" xmltv_id="Movies 24+">Movies 24+</channel>
+    <channel update="i" site="tv.sky.com" site_id="3510" xmltv_id="Nollywood">Nollywood</channel>
+    <channel update="i" site="tv.sky.com" site_id="4033" xmltv_id="Sky ShowcseHD">Sky ShowcseHD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4015" xmltv_id="SkySuprheroHD">SkySuprheroHD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4013" xmltv_id="Sky Disney HD">Sky Disney HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4018" xmltv_id="Sky Family HD">Sky Family HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4014" xmltv_id="Sky Action HD">Sky Action HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4019" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4062" xmltv_id="Sky Thriller HD">Sky Thriller HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4016" xmltv_id="Sky DraRomHD">Sky DraRomHD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4017" xmltv_id="Sky ScFi/HorHD">Sky ScFi/HorHD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4020" xmltv_id="Sky Select HD">Sky Select HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="5605" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="tv.sky.com" site_id="1627" xmltv_id="Film4">Film4</channel>
+    <channel update="i" site="tv.sky.com" site_id="5252" xmltv_id="TalkingPictures">TalkingPictures</channel>
+    <channel update="i" site="tv.sky.com" site_id="2512" xmltv_id="MTV MUSIC">MTV MUSIC</channel>
+    <channel update="i" site="tv.sky.com" site_id="2508" xmltv_id="MTV BASE">MTV BASE</channel>
+    <channel update="i" site="tv.sky.com" site_id="2506" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel update="i" site="tv.sky.com" site_id="2511" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="tv.sky.com" site_id="2507" xmltv_id="MTV DANCE">MTV DANCE</channel>
+    <channel update="i" site="tv.sky.com" site_id="2503" xmltv_id="MTV ROCKS">MTV ROCKS</channel>
+    <channel update="i" site="tv.sky.com" site_id="2509" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="tv.sky.com" site_id="2502" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3508" xmltv_id="MTV Music +1">MTV Music +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1874" xmltv_id="Box Upfront">Box Upfront</channel>
+    <channel update="i" site="tv.sky.com" site_id="1802" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="tv.sky.com" site_id="1350" xmltv_id="Box Hits">Box Hits</channel>
+    <channel update="i" site="tv.sky.com" site_id="1758" xmltv_id="4Music">4Music</channel>
+    <channel update="i" site="tv.sky.com" site_id="1858" xmltv_id="KISS">KISS</channel>
+    <channel update="i" site="tv.sky.com" site_id="1877" xmltv_id="Magic">Magic</channel>
+    <channel update="i" site="tv.sky.com" site_id="3505" xmltv_id="Chart Show TV">Chart Show TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="3935" xmltv_id="The Vault">The Vault</channel>
+    <channel update="i" site="tv.sky.com" site_id="4210" xmltv_id="Scuzz">Scuzz</channel>
+    <channel update="i" site="tv.sky.com" site_id="1853" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel update="i" site="tv.sky.com" site_id="3531" xmltv_id="Vintage TV">Vintage TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="3682" xmltv_id="Chilled TV">Chilled TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="3603" xmltv_id="Starz TV">Starz TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="4215" xmltv_id="Chartshw Dnce">Chartshw Dnce</channel>
+    <channel update="i" site="tv.sky.com" site_id="3781" xmltv_id="Flava">Flava</channel>
+    <channel update="i" site="tv.sky.com" site_id="4541" xmltv_id="NOW Music">NOW Music</channel>
+    <channel update="i" site="tv.sky.com" site_id="4505" xmltv_id="Clubland TV">Clubland TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="3403" xmltv_id="Channel AKA">Channel AKA</channel>
+    <channel update="i" site="tv.sky.com" site_id="4006" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3830" xmltv_id="Heart TV">Heart TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="2552" xmltv_id="CAPITAL TV">CAPITAL TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="4933" xmltv_id="Keep It Country">Keep It Country</channel>
+    <channel update="i" site="tv.sky.com" site_id="4049" xmltv_id="Sky SpN HQ HD">Sky SpN HQ HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4002" xmltv_id="Sky Sports 1 HD">Sky Sports 1 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4081" xmltv_id="Sky Sports 2 HD">Sky Sports 2 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4022" xmltv_id="Sky Sports 3 HD">Sky Sports 3 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4026" xmltv_id="Sky Sports 4 HD">Sky Sports 4 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4010" xmltv_id="Sky Sports 5 HD">Sky Sports 5 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3835" xmltv_id="Sky Spts F1 HD">Sky Spts F1 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1314" xmltv_id="Sky Sp NewsHQ">Sky Sp NewsHQ</channel>
+    <channel update="i" site="tv.sky.com" site_id="1301" xmltv_id="Sky Sports 1">Sky Sports 1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4004" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4009" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1726" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="tv.sky.com" site_id="3661" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel update="i" site="tv.sky.com" site_id="5032" xmltv_id="BT Sport Europe">BT Sport Europe</channel>
+    <channel update="i" site="tv.sky.com" site_id="1354" xmltv_id="At The Races">At The Races</channel>
+    <channel update="i" site="tv.sky.com" site_id="3663" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel update="i" site="tv.sky.com" site_id="1003" xmltv_id="MUTV HD">MUTV HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4038" xmltv_id="Chelsea TV HD">Chelsea TV HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1757" xmltv_id="Chelsea TV">Chelsea TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="3141" xmltv_id="BT Sport//ESPN">BT Sport//ESPN</channel>
+    <channel update="i" site="tv.sky.com" site_id="3625" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="5311" xmltv_id="Premier Sports">Premier Sports</channel>
+    <channel update="i" site="tv.sky.com" site_id="3845" xmltv_id="LFCTV HD">LFCTV HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3636" xmltv_id="Racing UK">Racing UK</channel>
+    <channel update="i" site="tv.sky.com" site_id="3629" xmltv_id="BT Sport EurHD">BT Sport EurHD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1302" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
+    <channel update="i" site="tv.sky.com" site_id="1333" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
+    <channel update="i" site="tv.sky.com" site_id="3417" xmltv_id="BoxNation">BoxNation</channel>
+    <channel update="i" site="tv.sky.com" site_id="1322" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
+    <channel update="i" site="tv.sky.com" site_id="1303" xmltv_id="Sky Sports 5">Sky Sports 5</channel>
+    <channel update="i" site="tv.sky.com" site_id="1841" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tv.sky.com" site_id="3735" xmltv_id="MOTORS TV UK">MOTORS TV UK</channel>
+    <channel update="i" site="tv.sky.com" site_id="1306" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1834" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="tv.sky.com" site_id="3732" xmltv_id="LFCTV">LFCTV</channel>
+    <channel update="i" site="tv.sky.com" site_id="3627" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4040" xmltv_id="BTSpt//ESPNHD">BTSpt//ESPNHD</channel>
+    <channel update="i" site="tv.sky.com" site_id="5153" xmltv_id="Premier HD">Premier HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="5229" xmltv_id="Bike">Bike</channel>
+    <channel update="i" site="tv.sky.com" site_id="5272" xmltv_id="Racing UK HD">Racing UK HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3641" xmltv_id="FrontRunner">FrontRunner</channel>
+    <channel update="i" site="tv.sky.com" site_id="5039" xmltv_id="BoxNation HD">BoxNation HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1034" xmltv_id="SkySpBoxOff">SkySpBoxOff</channel>
+    <channel update="i" site="tv.sky.com" site_id="1035" xmltv_id="SkySpBoxOffHD">SkySpBoxOffHD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4050" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3260" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="tv.sky.com" site_id="2085" xmltv_id="BBC NEWS HD">BBC NEWS HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="2072" xmltv_id="BBC Parliament">BBC Parliament</channel>
+    <channel update="i" site="tv.sky.com" site_id="3611" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="tv.sky.com" site_id="5602" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tv.sky.com" site_id="3147" xmltv_id="NHK World HD">NHK World HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4604" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="tv.sky.com" site_id="1357" xmltv_id="FOX News">FOX News</channel>
+    <channel update="i" site="tv.sky.com" site_id="3211" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="tv.sky.com" site_id="1821" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+    <channel update="i" site="tv.sky.com" site_id="5314" xmltv_id="RT HD">RT HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4560" xmltv_id="FRANCE Eng">FRANCE Eng</channel>
+    <channel update="i" site="tv.sky.com" site_id="3107" xmltv_id="Al Jazeera Eng">Al Jazeera Eng</channel>
+    <channel update="i" site="tv.sky.com" site_id="5337" xmltv_id="CNC World">CNC World</channel>
+    <channel update="i" site="tv.sky.com" site_id="1404" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="tv.sky.com" site_id="5882" xmltv_id="TVC News">TVC News</channel>
+    <channel update="i" site="tv.sky.com" site_id="3213" xmltv_id="RT">RT</channel>
+    <channel update="i" site="tv.sky.com" site_id="4003" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="2404" xmltv_id="Discovery+1">Discovery+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="2413" xmltv_id="ID">ID</channel>
+    <channel update="i" site="tv.sky.com" site_id="3813" xmltv_id="AnimalPlnt HD">AnimalPlnt HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="2409" xmltv_id="Disc.Turbo">Disc.Turbo</channel>
+    <channel update="i" site="tv.sky.com" site_id="2406" xmltv_id="Disc.Science">Disc.Science</channel>
+    <channel update="i" site="tv.sky.com" site_id="4031" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1822" xmltv_id="Nat Geo+1hr">Nat Geo+1hr</channel>
+    <channel update="i" site="tv.sky.com" site_id="4025" xmltv_id="NatGeoWild HD">NatGeoWild HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4086" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1891" xmltv_id="History +1 hour">History +1 hour</channel>
+    <channel update="i" site="tv.sky.com" site_id="1879" xmltv_id="H2">H2</channel>
+    <channel update="i" site="tv.sky.com" site_id="4068" xmltv_id="Eden HD">Eden HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="2307" xmltv_id="Eden+1">Eden+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="5500" xmltv_id="PBS America">PBS America</channel>
+    <channel update="i" site="tv.sky.com" site_id="2407" xmltv_id="Disc.History">Disc.History</channel>
+    <channel update="i" site="tv.sky.com" site_id="3760" xmltv_id="Disc.History+1">Disc.History+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="2305" xmltv_id="YESTERDAY">YESTERDAY</channel>
+    <channel update="i" site="tv.sky.com" site_id="2615" xmltv_id="YESTERDAY+1">YESTERDAY+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1872" xmltv_id="Community">Community</channel>
+    <channel update="i" site="tv.sky.com" site_id="1806" xmltv_id="Nat Geo">Nat Geo</channel>
+    <channel update="i" site="tv.sky.com" site_id="1847" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="tv.sky.com" site_id="1875" xmltv_id="History">History</channel>
+    <channel update="i" site="tv.sky.com" site_id="1352" xmltv_id="Animal Plnt+1">Animal Plnt+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="5452" xmltv_id="ID+1">ID+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4088" xmltv_id="Crime+Inv HD">Crime+Inv HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3620" xmltv_id="Crime+Inv +1">Crime+Inv +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1448" xmltv_id="Crime+Inv">Crime+Inv</channel>
+    <channel update="i" site="tv.sky.com" site_id="1351" xmltv_id="Disc.Sci+1">Disc.Sci+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="2401" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="tv.sky.com" site_id="2402" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tv.sky.com" site_id="2302" xmltv_id="Eden">Eden</channel>
+    <channel update="i" site="tv.sky.com" site_id="2011" xmltv_id="BBC NEWS">BBC NEWS</channel>
+    <channel update="i" site="tv.sky.com" site_id="5530" xmltv_id="BON TV">BON TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="5881" xmltv_id="TVC News +1">TVC News +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="5520" xmltv_id="Channels 24">Channels 24</channel>
+    <channel update="i" site="tv.sky.com" site_id="5040" xmltv_id="Times Now">Times Now</channel>
+    <channel update="i" site="tv.sky.com" site_id="5521" xmltv_id="News18">News18</channel>
+    <channel update="i" site="tv.sky.com" site_id="3105" xmltv_id="GOD Channel">GOD Channel</channel>
+    <channel update="i" site="tv.sky.com" site_id="3116" xmltv_id="revelation">revelation</channel>
+    <channel update="i" site="tv.sky.com" site_id="3109" xmltv_id="TBN UK">TBN UK</channel>
+    <channel update="i" site="tv.sky.com" site_id="5541" xmltv_id="DAYSTAR HD">DAYSTAR HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3219" xmltv_id="Inspiration">Inspiration</channel>
+    <channel update="i" site="tv.sky.com" site_id="4245" xmltv_id="LOVEWORLD TV">LOVEWORLD TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="6548" xmltv_id="Gospel Channel">Gospel Channel</channel>
+    <channel update="i" site="tv.sky.com" site_id="3205" xmltv_id="Word Network">Word Network</channel>
+    <channel update="i" site="tv.sky.com" site_id="3117" xmltv_id="EWTN Catholic">EWTN Catholic</channel>
+    <channel update="i" site="tv.sky.com" site_id="4404" xmltv_id="Faith World TV">Faith World TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="3776" xmltv_id="KICC TV">KICC TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="3648" xmltv_id="Believe TV">Believe TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="3604" xmltv_id="Olive TV">Olive TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="3392" xmltv_id="SonLife">SonLife</channel>
+    <channel update="i" site="tv.sky.com" site_id="5354" xmltv_id="Flow TV">Flow TV</channel>
+    <channel update="i" site="tv.sky.com" site_id="1004" xmltv_id="Hillsong">Hillsong</channel>
+    <channel update="i" site="tv.sky.com" site_id="4077" xmltv_id="Cartoon Net HD">Cartoon Net HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="5610" xmltv_id="CN+1">CN+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4030" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="4069" xmltv_id="NickelodeonHD">NickelodeonHD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1845" xmltv_id="Nickelodeon+1">Nickelodeon+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1849" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="tv.sky.com" site_id="4070" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1844" xmltv_id="Disney XD+1">Disney XD+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4071" xmltv_id="Disney Chnl HD">Disney Chnl HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1882" xmltv_id="Disney Chnl+1">Disney Chnl+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4073" xmltv_id="Disney Jnr HD">Disney Jnr HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1890" xmltv_id="Disney Junior+">Disney Junior+</channel>
+    <channel update="i" site="tv.sky.com" site_id="2078" xmltv_id="CBBC HD">CBBC HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="2088" xmltv_id="CBeebies HD">CBeebies HD</channel>
+    <channel update="i" site="tv.sky.com" site_id="1857" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="tv.sky.com" site_id="3750" xmltv_id="POP">POP</channel>
+    <channel update="i" site="tv.sky.com" site_id="3780" xmltv_id="Tiny Pop">Tiny Pop</channel>
+    <channel update="i" site="tv.sky.com" site_id="5603" xmltv_id="Boomerang +1">Boomerang +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1371" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="tv.sky.com" site_id="4340" xmltv_id="Nick Jr Too">Nick Jr Too</channel>
+    <channel update="i" site="tv.sky.com" site_id="6273" xmltv_id="CITV">CITV</channel>
+    <channel update="i" site="tv.sky.com" site_id="1843" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="tv.sky.com" site_id="3645" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="tv.sky.com" site_id="2019" xmltv_id="CBeebies">CBeebies</channel>
+    <channel update="i" site="tv.sky.com" site_id="4261" xmltv_id="Tiny Pop +1">Tiny Pop +1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4216" xmltv_id="POP+1">POP+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="4262" xmltv_id="Kix">Kix</channel>
+    <channel update="i" site="tv.sky.com" site_id="1884" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="tv.sky.com" site_id="4263" xmltv_id="Kix+1">Kix+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="5089" xmltv_id="Nick Jr+1">Nick Jr+1</channel>
+    <channel update="i" site="tv.sky.com" site_id="1881" xmltv_id="Disney Chnl">Disney Chnl</channel>
+    <channel update="i" site="tv.sky.com" site_id="1846" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tv.sky.com" site_id="2020" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="tv.sky.com" site_id="5601" xmltv_id="Cartoon Netwrk">Cartoon Netwrk</channel>
+    <channel update="i" site="tv.sky.com" site_id="5609" xmltv_id="Boomerang">Boomerang</channel>
+  </channels>
+</site>
